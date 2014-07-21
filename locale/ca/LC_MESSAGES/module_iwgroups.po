@@ -8,30 +8,38 @@ msgstr ""
 "Project-Id-Version: Zikula 1.2.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-01-26 09:53+0100\n"
-"PO-Revision-Date: 2014-07-20 21:30+0100\n"
-"Last-Translator: Albert Pérez Monfort <aperez16@gmail.cat>\n"
+"PO-Revision-Date: 2014-07-21 18:19+0100\n"
+"Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-#: pnuserapi.php:29 pnuserapi.php:68 pnadminapi.php:202 pnadminapi.php:241
-#: pnadminapi.php:415 pnadminapi.php:516
-msgid ""
-"An error has occurred while trying to select records in the database. "
-"Contact with the intranet administrator"
-msgstr ""
-"S'ha produït un error en intentar seleccionar registres de la base de dades. "
-"Contacteu amb l'admninistrador/a del web"
+#: pnuserapi.php:29
+#: pnuserapi.php:68
+#: pnadminapi.php:202
+#: pnadminapi.php:241
+#: pnadminapi.php:415
+#: pnadminapi.php:516
+msgid "An error has occurred while trying to select records in the database. Contact with the intranet administrator"
+msgstr "S'ha produït un error en intentar seleccionar registres de la base de dades. Contacteu amb l'administrador/a del web"
 
-#: pnuserapi.php:57 pnadminapi.php:16 pnadminapi.php:65 pnadminapi.php:127
-#: pnadminapi.php:284 pnadminapi.php:346 pnadminapi.php:396 pnadminapi.php:502
-#: pnadminapi.php:543 pnadminapi.php:590
+#: pnuserapi.php:57
+#: pnadminapi.php:16
+#: pnadminapi.php:65
+#: pnadminapi.php:127
+#: pnadminapi.php:284
+#: pnadminapi.php:346
+#: pnadminapi.php:396
+#: pnadminapi.php:502
+#: pnadminapi.php:543
+#: pnadminapi.php:590
 msgid "Error! Could not do what you wanted. Please check your input."
 msgstr "No s'ha pogut carregar el que volíeu. Reviseu les dades."
 
-#: pnuserapi.php:94 pnuserapi.php:99
+#: pnuserapi.php:94
+#: pnuserapi.php:99
 msgid "Error! Could not load items."
 msgstr "S'ha produït un error en carregar elements."
 
@@ -39,14 +47,22 @@ msgstr "S'ha produït un error en carregar elements."
 msgid "An error has occurred while creating the group"
 msgstr "S'ha produït un error en crear un grup"
 
-#: pnadminapi.php:84 pnadminapi.php:92 pnadminapi.php:101 pnadminapi.php:309
-#: pnadminapi.php:320 pnadminapi.php:369 pnadminapi.php:464 pnadminapi.php:470
-#: pnadminapi.php:631 pnadminapi.php:640
-msgid ""
-"An error has occurred while trying to delete a record from the data base"
+#: pnadminapi.php:84
+#: pnadminapi.php:92
+#: pnadminapi.php:101
+#: pnadminapi.php:309
+#: pnadminapi.php:320
+#: pnadminapi.php:369
+#: pnadminapi.php:464
+#: pnadminapi.php:470
+#: pnadminapi.php:631
+#: pnadminapi.php:640
+msgid "An error has occurred while trying to delete a record from the data base"
 msgstr "S'ha produït un error en esborrar el registre"
 
-#: pnadminapi.php:134 pnadmin.php:181 pnadmin.php:242
+#: pnadminapi.php:134
+#: pnadmin.php:181
+#: pnadmin.php:242
 msgid "The group where the action had to be carried out hasn't been found"
 msgstr "No s'ha trobat el grup sobre el qual fer l'acció sol·licitada"
 
@@ -54,13 +70,23 @@ msgstr "No s'ha trobat el grup sobre el qual fer l'acció sol·licitada"
 msgid "The modification of the group has failed"
 msgstr "La modificació del grup ha fallat"
 
-#: pnadminapi.php:290 pnadminapi.php:352 pnadminapi.php:402 pnadminapi.php:446
-#: pnadminapi.php:508 pnadminapi.php:549 pnadminapi.php:611
+#: pnadminapi.php:290
+#: pnadminapi.php:352
+#: pnadminapi.php:402
+#: pnadminapi.php:446
+#: pnadminapi.php:508
+#: pnadminapi.php:549
+#: pnadminapi.php:611
 msgid "You aren't allowed to administer the groups"
 msgstr "No teniu autorització per administrar els grups"
 
-#: pnadminapi.php:440 pnadmin.php:611 pnadmin.php:642 pnadmin.php:715
-#: pnadmin.php:739 pnadmin.php:807 pnadmin.php:956
+#: pnadminapi.php:440
+#: pnadmin.php:611
+#: pnadmin.php:642
+#: pnadmin.php:715
+#: pnadmin.php:739
+#: pnadmin.php:807
+#: pnadmin.php:956
 msgid "Incorrect action during the group change"
 msgstr "Acció incorrecta en el canvi de grups"
 
@@ -75,11 +101,11 @@ msgstr "No s'ha pogut carregar el mòdul."
 #: pntemplates/plugins/function.iwgroupsadminmenulinks.php:22
 #: pntemplates/iw_groups_admin_new.htm:5
 msgid "Add a new group"
-msgstr "Afegeix un nou grup"
+msgstr "Grup nou"
 
 #: pntemplates/plugins/function.iwgroupsadminmenulinks.php:26
 msgid "View the groups"
-msgstr "Mostra els grups"
+msgstr "Llista de grups"
 
 #: pntemplates/plugins/function.iwgroupsadminmenulinks.php:30
 msgid "Administer the members of the groups "
@@ -87,23 +113,35 @@ msgstr "Gestiona els membres dels grups"
 
 #: pntemplates/plugins/function.iwgroupsadminmenulinks.php:34
 msgid "Configure the module"
-msgstr "Configura el mòdul"
+msgstr "Configuració"
 
 #: pnadmin.php:19
 msgid "There isn't any group defined"
 msgstr "No hi ha cap grup definit"
 
-#: pnadmin.php:43 pnadmin.php:64 pnadmin.php:127 pnadmin.php:174
-#: pnadmin.php:235 pnadmin.php:310 pnadmin.php:357 pnadmin.php:618
-#: pnadmin.php:951 pnadmin.php:1000 pnadmin.php:1074
+#: pnadmin.php:43
+#: pnadmin.php:64
+#: pnadmin.php:127
+#: pnadmin.php:174
+#: pnadmin.php:235
+#: pnadmin.php:310
+#: pnadmin.php:357
+#: pnadmin.php:618
+#: pnadmin.php:951
+#: pnadmin.php:1000
+#: pnadmin.php:1074
 msgid "Sorry! No authorization to access this module."
 msgstr "No teniu autorització per accedir a aquest mòdul."
 
-#: pnadmin.php:80 pnadmin.php:262 pntemplates/iw_groups_admin_main.htm:10
+#: pnadmin.php:80
+#: pnadmin.php:262
+#: pntemplates/iw_groups_admin_main.htm:10
 msgid "Group name"
 msgstr "Nom del grup"
 
-#: pnadmin.php:89 pnadmin.php:271 pntemplates/iw_groups_admin_main.htm:11
+#: pnadmin.php:89
+#: pnadmin.php:271
+#: pntemplates/iw_groups_admin_main.htm:11
 msgid "Description"
 msgstr "Descripció"
 
@@ -111,30 +149,40 @@ msgstr "Descripció"
 msgid "Create the group"
 msgstr "Crea el grup"
 
-#: pnadmin.php:139 pnadmin.php:324 pnadmin.php:971
+#: pnadmin.php:139
+#: pnadmin.php:324
+#: pnadmin.php:971
 #: pntemplates/iw_groups_admin_menu.htm:4
 msgid "Groups"
 msgstr "Grups"
 
-#: pnadmin.php:140 pnadmin.php:325
+#: pnadmin.php:140
+#: pnadmin.php:325
 msgid "You didn't state the group name."
 msgstr "No heu indicat el nom del grup."
 
-#: pnadmin.php:142 pnadmin.php:327 pnadmin.php:635 pnadmin.php:707
-#: pnadmin.php:730 pnadmin.php:799 pnadmin.php:821 pnadmin.php:902
+#: pnadmin.php:142
+#: pnadmin.php:327
+#: pnadmin.php:635
+#: pnadmin.php:707
+#: pnadmin.php:730
+#: pnadmin.php:799
+#: pnadmin.php:821
+#: pnadmin.php:902
 #: pnadmin.php:924
 msgid "Return to the previous form"
 msgstr "Torna al formulari anterior"
 
 #: pnadmin.php:152
 msgid "A group ha been created"
-msgstr "S'ha creat un nou grup"
+msgstr "S'ha creat un grup nou"
 
 #: pnadmin.php:194
 msgid "Confirm the deletion of the group"
 msgstr "Confirma l'esborrament del grup"
 
-#: pnadmin.php:194 pnadmin.php:881
+#: pnadmin.php:194
+#: pnadmin.php:881
 msgid "Cancel the deletion"
 msgstr "Cancel·la l'esborrament"
 
@@ -142,7 +190,8 @@ msgstr "Cancel·la l'esborrament"
 msgid "Group deleted"
 msgstr "S'ha esborrat el grup"
 
-#: pnadmin.php:283 pnadmin.php:1049
+#: pnadmin.php:283
+#: pnadmin.php:1049
 msgid "Modify"
 msgstr "Modifica"
 
@@ -150,27 +199,33 @@ msgstr "Modifica"
 msgid "Group updated"
 msgstr "S'ha actualitzat el grup"
 
-#: pnadmin.php:376 pnadmin.php:415
+#: pnadmin.php:376
+#: pnadmin.php:415
 msgid "Empty Group "
 msgstr "Grup buit"
 
-#: pnadmin.php:384 pnadmin.php:388
+#: pnadmin.php:384
+#: pnadmin.php:388
 msgid "Choose a group..."
 msgstr "Tria un grup..."
 
-#: pnadmin.php:428 pnadmin.php:434
+#: pnadmin.php:428
+#: pnadmin.php:434
 msgid "Group"
 msgstr "Grup"
 
-#: pnadmin.php:431 pntemplates/iw_groups_admin_main.htm:12
+#: pnadmin.php:431
+#: pntemplates/iw_groups_admin_main.htm:12
 msgid "Options"
 msgstr "Opcions"
 
-#: pnadmin.php:449 pnadmin.php:464
+#: pnadmin.php:449
+#: pnadmin.php:464
 msgid "Change"
 msgstr "Canvia"
 
-#: pnadmin.php:482 pnadmin.php:569
+#: pnadmin.php:482
+#: pnadmin.php:569
 msgid "Without group"
 msgstr "Sense grup:"
 
@@ -198,22 +253,29 @@ msgstr "Treu dels grups"
 msgid "Member of the following groups"
 msgstr "De quins grups és?"
 
-#: pnadmin.php:631 pnadmin.php:703 pnadmin.php:726 pnadmin.php:795
-#: pnadmin.php:817 pnadmin.php:899
+#: pnadmin.php:631
+#: pnadmin.php:703
+#: pnadmin.php:726
+#: pnadmin.php:795
+#: pnadmin.php:817
+#: pnadmin.php:899
 msgid "No user selected"
 msgstr "No heu escollit cap usuari/ària de la llista per fer l'acció"
 
-#: pnadmin.php:664 pnadmin.php:761
+#: pnadmin.php:664
+#: pnadmin.php:761
 msgid "Move users between groups"
 msgstr "Mou els membres entre els grups"
 
-#: pnadmin.php:683 pnadmin.php:779
+#: pnadmin.php:683
+#: pnadmin.php:779
 msgid "Confirm the transfer of users between groups"
-msgstr "Confirma el transpàs dels usuaris/àries entre grups"
+msgstr "Confirma el traspàs dels usuaris entre els grups"
 
-#: pnadmin.php:683 pnadmin.php:779
+#: pnadmin.php:683
+#: pnadmin.php:779
 msgid "Cancel the action"
-msgstr "Cancel·la el transpàs dels usuaris/àries entre grups"
+msgstr "Cancel·la el traspàs dels usuaris entre els grups"
 
 #: pnadmin.php:835
 msgid "Delete the members of the groups "
@@ -225,11 +287,11 @@ msgstr "Confirma l'esborrament dels membres dels grups"
 
 #: pnadmin.php:967
 msgid "Groups to which the users belong "
-msgstr "Grups als quals pertanyen els/les usuaris/àries "
+msgstr "Grups als quals pertanyen els usuaris"
 
 #: pnadmin.php:1021
 msgid "Initial group"
-msgstr "Grup inicial en l'administració dels membres dels grups"
+msgstr "Grup inicial a l'administració dels membres dels grups"
 
 #: pnadmin.php:1030
 msgid "Confirm the deletion of groups membership"
@@ -241,9 +303,10 @@ msgstr "Demana confirmació abans de moure membres d'un grup cap a un altre"
 
 #: pnadmin.php:1089
 msgid "Configuration updated"
-msgstr "S'ha modificat la configuració del mòdul grups"
+msgstr "S'ha modificat la configuració del mòdul de grups"
 
-#: pnversion.php:13 pnversion.php:17
+#: pnversion.php:13
+#: pnversion.php:17
 msgid "iw_groups"
 msgstr "iw_groups"
 
@@ -311,4 +374,5 @@ msgid "Return to members table"
 msgstr "Torna a la taula de gestió de membres dels grups"
 
 msgid "User without groups"
-msgstr "L'usuari/ària no està a cap grup"
+msgstr "L'usuari/ària no és a cap grup"
+
